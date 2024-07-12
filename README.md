@@ -17,6 +17,6 @@ A web application to streamline billing processes for restaurants using HTML, CS
 - CSS
 - JavaScript
 
-- https://main--radiant-taiyaki-bc9c48.netlify.app/
+- https://adityaprakashsimplebillingsytem.netlify.app/
 
 --MADE BY Aditya Prakash
